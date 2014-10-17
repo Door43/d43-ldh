@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[ldh:home|Door43 (ldh)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-ldh|d43-ldh repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-ldh/archive/master.zip|d43-ldh.zip]]
+
+**Recent Changes**
+{{changes>ns = ldh}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/ldh|Ethnologue data]]
+
